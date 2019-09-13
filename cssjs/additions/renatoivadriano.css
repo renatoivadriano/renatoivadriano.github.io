@@ -1,0 +1,44 @@
+/* 
+	renatoivadriano
+*/
+.githb:hover{color: #000000;}
+.insta:hover{color: #e95950;}
+.twit:hover{color: #55acee;}
+.lnkin:hover{color: #007bb5;}
+.fcebk:hover{color: #3b5998;}
+.msngr:hover{color: #0084ff;}
+.github-connect{font-size: 30px;}
+.insta-connect{font-size: 30px;}
+.twit-connect{font-size: 30px;}
+.lnkin-connect{font-size: 30px;}
+.fcebk-connect{font-size: 30px;}
+.msngr-connect{font-size: 30px;}
+.hover-color-0e2d68:hover{color: #0e2d68;}
+.hover-color-0066CC:hover{color: #0066CC;}
+.hover-color-1a0dab:hover{color: #1a0dab;}
+.hover-color-141414:hover{color: #141414;}
+.hover-color-343a40:hover{color: #343a40;}
+.hover-color-2ba6cb:hover{color: #2ba6cb;}
+.sns{-moz-transition-timing-function: ease-in-out; -o-transition-timing-function: ease-in-out; -webkit-transition-timing-function: ease-in-out; transition-timing-function: ease-in-out;-moz-transition: all 2s, -moz-transform 2s; -o-transition: all 2s, -o-transform 2s; -webkit-transition: all 2s, -webkit-transform 2s; transition: all 2s, transform 2s;}
+.sns:hover{font-size: 65px;}
+.hover-font-size-17{-moz-transition-timing-function: ease-in-out; -o-transition-timing-function: ease-in-out; -webkit-transition-timing-function: ease-in-out; transition-timing-function: ease-in-out;-moz-transition: all 2s, -moz-transform 2s; -o-transition: all 2s, -o-transform 2s; -webkit-transition: all 2s, -webkit-transform 2s; transition: all 2s, transform 2s;}
+.hover-font-size-17:hover{font-size: 17px;}
+.hover-font-size-30{-moz-transition-timing-function: ease-in-out; -o-transition-timing-function: ease-in-out; -webkit-transition-timing-function: ease-in-out; transition-timing-function: ease-in-out;-moz-transition: all 2s, -moz-transform 2s; -o-transition: all 2s, -o-transform 2s; -webkit-transition: all 2s, -webkit-transform 2s; transition: all 2s, transform 2s;}
+.hover-font-size-30:hover{font-size: 30px;}
+.disabled:hover{color: #737373;}
+.disabled{color: #737373;}
+.no-underline:hover{text-decoration: none;}
+.bg-color-cccccc{background-color: #cccccc;}
+.text-color-212529{color: #212529;}
+.fontsize20{font-size: 20px;}
+.fontsize17{font-size: 17px;}
+.adjustment-content{padding-top: 155px;}
+.margin-all-0{margin: 0px;}
+
+/* HEADER-Effects https://www.w3schools.com/howto/howto_js_navbar_shrink_scroll.asp */
+#navbar {overflow: hidden;background-color: #e6e6e6;padding: 20px 10px; /* Large padding which will shrink on scroll (using JS) */transition: 0.4s; /* Adds a transition effect when the padding is decreased */position: fixed; /* Sticky/fixed navbar */width: 100%;top: 0; /* At the top */z-index: 99;}
+#navbar {font-size: 35px;font-weight: bold;transition: 0.4s;}
+#navbar{background-color: #e6e6e6;color: black;}
+@media screen and (max-width: 580px) {
+  #navbar {padding: 20px 10px !important; /* Use !important to make sure that JavaScript doesn't override the padding on small screens */}
+} 
