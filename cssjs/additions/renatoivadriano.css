@@ -35,6 +35,7 @@ a {background-color: transparent; color: #212529;}
 .fontsize17{font-size: 17px;}
 .adjustment-content{padding-top: 155px;}
 .margin-all-0{margin: 0px;}
+.padding-lr-15{padding-left: 15px;padding-right: 15px;}
 
 /* HEADER-Effects https://www.w3schools.com/howto/howto_js_navbar_shrink_scroll.asp */
 #navbar {overflow: hidden;background-color: #e6e6e6;padding: 20px 10px; /* Large padding which will shrink on scroll (using JS) */transition: 0.4s; /* Adds a transition effect when the padding is decreased */position: fixed; /* Sticky/fixed navbar */width: 100%;top: 0; /* At the top */z-index: 99;}
