@@ -13,4 +13,4 @@ The purpose of this site is to showcase my skills and to hold some of my persona
 		* https://github.com/renatoivadriano/covid19phcasetracker
 	- _**Website Link**_
 		* https://renatoivadriano.github.io/covid19phcasetracker
-		* http://covid19phtracker.renatoivadriano.ml
+		* https://covid19phtracker.renatoivadriano.ml
